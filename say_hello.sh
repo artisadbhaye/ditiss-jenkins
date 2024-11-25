@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "hello form jenkins github"
 
-echo "cdac -ditiss"
+echo "cdac -ditiss  bhjvvgugv"
 
